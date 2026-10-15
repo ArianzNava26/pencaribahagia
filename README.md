@@ -1,4 +1,4 @@
-# Happiness Version Finder 🌟
+# Your True Happiness Finder 🌟
 
 A simple and interactive Python program designed to spread positive affirmations. This program will ask for your name and the top 3 positive things you love most in life, and then weave them into a meaningful message about your own version of true happiness.
 
